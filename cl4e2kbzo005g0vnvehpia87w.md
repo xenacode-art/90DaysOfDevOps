@@ -74,3 +74,5 @@ Let's recap.
 
 [What is Devsecops](https://www.redhat.com/en/topics/devops/what-is-devsecops)
 
+[What is Devsecops by Spacelift](https://spacelift.io/blog/what-is-devsecops)
+
